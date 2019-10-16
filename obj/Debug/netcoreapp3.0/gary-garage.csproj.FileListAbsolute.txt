@@ -1,0 +1,11 @@
+/Users/harooniqbal/workspace/csharp/exercises/gary-garage/obj/Debug/netcoreapp3.0/gary-garage.csprojAssemblyReference.cache
+/Users/harooniqbal/workspace/csharp/exercises/gary-garage/obj/Debug/netcoreapp3.0/gary-garage.AssemblyInfoInputs.cache
+/Users/harooniqbal/workspace/csharp/exercises/gary-garage/obj/Debug/netcoreapp3.0/gary-garage.AssemblyInfo.cs
+/Users/harooniqbal/workspace/csharp/exercises/gary-garage/bin/Debug/netcoreapp3.0/gary-garage
+/Users/harooniqbal/workspace/csharp/exercises/gary-garage/bin/Debug/netcoreapp3.0/gary-garage.deps.json
+/Users/harooniqbal/workspace/csharp/exercises/gary-garage/bin/Debug/netcoreapp3.0/gary-garage.runtimeconfig.json
+/Users/harooniqbal/workspace/csharp/exercises/gary-garage/bin/Debug/netcoreapp3.0/gary-garage.runtimeconfig.dev.json
+/Users/harooniqbal/workspace/csharp/exercises/gary-garage/bin/Debug/netcoreapp3.0/gary-garage.dll
+/Users/harooniqbal/workspace/csharp/exercises/gary-garage/bin/Debug/netcoreapp3.0/gary-garage.pdb
+/Users/harooniqbal/workspace/csharp/exercises/gary-garage/obj/Debug/netcoreapp3.0/gary-garage.dll
+/Users/harooniqbal/workspace/csharp/exercises/gary-garage/obj/Debug/netcoreapp3.0/gary-garage.pdb
